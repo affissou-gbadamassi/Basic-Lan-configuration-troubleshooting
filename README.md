@@ -29,16 +29,16 @@ Cisco Packet Tracer | Cisco IOS | IPv4 | Routing | ICMP
 ## Project Screenshots
 
 ### 1. Router Configuration and Troubleshooting
-![Router Configuration](screenshots/1.png)
+![Router Configuration](1.png)
 
 ### 2. LAN 1 Static IP Configuration
-![LAN 1 IP Configuration](screenshots/2.png)
+![LAN 1 IP Configuration](2.png)
 
 ### 3. LAN 2 Static IP Configuration
-![LAN 2 IP Configuration](screenshots/3.png)
+![LAN 2 IP Configuration](3.png)
 
 ### 4. Failed Inter-LAN Connectivity Test
-![Failed Connectivity](screenshots/4.png)
+![Failed Connectivity](4.png)
 
 ### 5. Successful Connectivity After Troubleshooting
-![Successful Connectivity](screenshots/5.png)
+![Successful Connectivity](5.png)
